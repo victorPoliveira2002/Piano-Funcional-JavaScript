@@ -30,4 +30,4 @@ Projeto criado com intuito de praticar manipulação de elementos com JS
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: https://victorpoliveira2002.github.io/Web-Book-/
+ * URL: https://victorpoliveira2002.github.io/Piano-Funcional-JavaScript/
