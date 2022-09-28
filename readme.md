@@ -3,12 +3,10 @@
 ## :memo: Descrição
 Projeto criado com intuito de praticar manipulação de elementos com JS
 
-![Wallpaper Project](https://user-images.githubusercontent.com/72527282/191326000-393a5c40-ddcc-4772-8caa-bcd91217e0f4.png)
+![piano](https://user-images.githubusercontent.com/72527282/192660237-8db36f82-e200-4535-9960-f3100fe342bc.png)
 
 ## :books: Funcionalidades
 * Piano funcional
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72527282/191326403-ff8cb20c-b47f-4f78-9f7d-64719fd3c0f4.gif)
 
 ## :wrench: Tecnologias utilizadas
 * HTML
